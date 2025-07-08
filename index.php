@@ -1,3 +1,4 @@
+<?php include 'functions/header_checkauth.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
